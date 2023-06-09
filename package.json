@@ -1,14 +1,14 @@
 {
   "name": "veryreal-prettier-eslint",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "My eslint/prettier configurations",
+  "main": "src/index.ts",
   "scripts": {
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
   "keywords": [],
-  "author": "",
+  "author": "alexisveryreal",
   "license": "ISC",
   "devDependencies": {
     "@types/eslint": "^8.40.1",
